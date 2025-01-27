@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstCode", "FirstCode\FirstCode.csproj", "{1E3BBC00-400A-4E0B-8907-24B664249FDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteralAndVariableStore", "LiteralAndVariableStore\LiteralAndVariableStore.csproj", "{255CD759-C529-43C5-B8E9-93596250EDB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1E3BBC00-400A-4E0B-8907-24B664249FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E3BBC00-400A-4E0B-8907-24B664249FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E3BBC00-400A-4E0B-8907-24B664249FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255CD759-C529-43C5-B8E9-93596250EDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255CD759-C529-43C5-B8E9-93596250EDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255CD759-C529-43C5-B8E9-93596250EDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255CD759-C529-43C5-B8E9-93596250EDB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
