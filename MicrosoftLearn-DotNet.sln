@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstCode", "FirstCode\FirstCode.csproj", "{1E3BBC00-400A-4E0B-8907-24B664249FDB}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFormatting", "StringFormatting\StringFormatting.csproj", "{25BC92D2-D090-405F-9997-2ED6E8E23EE5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicOperations", "BasicOperations\BasicOperations.csproj", "{405355CD-2B17-4563-853A-E257955C07BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateStudentGardes", "Cal\CalculateStudentGardes.csproj", "{B334F50C-1315-43AA-B976-D1C17586DF87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{405355CD-2B17-4563-853A-E257955C07BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{405355CD-2B17-4563-853A-E257955C07BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{405355CD-2B17-4563-853A-E257955C07BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B334F50C-1315-43AA-B976-D1C17586DF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B334F50C-1315-43AA-B976-D1C17586DF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B334F50C-1315-43AA-B976-D1C17586DF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B334F50C-1315-43AA-B976-D1C17586DF87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
