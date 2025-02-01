@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateStudentGardes", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateFinalGPA", "CalculateFinalGPA\CalculateFinalGPA.csproj", "{68E25AE1-920C-469C-8B25-C78C7F6090A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAndForEachLoop", "ArrayAndForEachLoop\ArrayAndForEachLoop.csproj", "{DF4E345F-D211-401B-BB87-175AC096E0B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{68E25AE1-920C-469C-8B25-C78C7F6090A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68E25AE1-920C-469C-8B25-C78C7F6090A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68E25AE1-920C-469C-8B25-C78C7F6090A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4E345F-D211-401B-BB87-175AC096E0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4E345F-D211-401B-BB87-175AC096E0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4E345F-D211-401B-BB87-175AC096E0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4E345F-D211-401B-BB87-175AC096E0B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
